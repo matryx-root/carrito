@@ -1,0 +1,106 @@
+{
+"listaProductos":[
+        {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "4"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "5"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "6"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "7"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "8"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "9"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "10"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "11"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "12"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "13"
+
+        },
+
+           {
+          "titulo": "Headphones Black and Blue",
+          "imagen": "https://www.seekpng.com/png/detail/849-8495575_audifonos-png-imagen-de-audifonos-png.png",
+          "descripcion": "Audifonos bluetho",
+          "precio":"39.000",
+          "stock": "14"
+
+        }
+
+
+
+    ]
+
+}
